@@ -97,7 +97,7 @@ ShipMission Description Transport Migrants		;Transportiere Migranten von {0} nac
 ShipMission Description Transport Tourists		;Transportiere Touristen von {0} nach {1}
 ShipMission Description UnloadTroops		;Entlade Truppen bei {0}
 ShipMission Description UnloadPassengers		;Passagiere entladen bei {0}
-ShipMission Description ExitYard		;Bauwerft verlassen
+ShipMission Description ExitYard		;Stapellauf
 ;
 SYSTEMNAME system		;{0} System
 Quality		;Qualität
