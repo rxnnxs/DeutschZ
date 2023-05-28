@@ -152,7 +152,7 @@ Energy		;Energie
 Shields		;Schilde
 Speed		;Tempo
 Weapons		;Waffen
-Health		;Gesundheit
+Health		;Zustand
 Max DPS		;Max DPS
 Range		;Reichweite
 Avg DPS		;Ø-DPS
@@ -3560,16 +3560,16 @@ Character Trait ForeignSpy		;Fremder Spion
 Character Trait FreeTrader		;Freier Händler
 Character Trait Generous		;Großzügig
 Character Trait GoodAdministrator		;Guter Administrator
-Character Trait GoodGroundLogistician		;Gut Boden Logistiker
-Character Trait GoodRecruiter		;Gute Rekrutierer
-Character Trait GoodSpaceLogistician		;Gute Raumfahrtlogistiker
+Character Trait GoodGroundLogistician		;Guter Boden Logistiker
+Character Trait GoodRecruiter		;Guter Rekrutierer
+Character Trait GoodSpaceLogistician		;Guter Raumfahrtlogistiker
 Character Trait GoodStrategist		;Guter Stratege
 Character Trait GoodTactician		;Guter Taktiker
 Character Trait HealthOriented		;Gesundheitsorientiert
 Character Trait Industrialist		;Industrieller
 Character Trait InspiringPresence		;Inspirierende Ausstrahlung
 Character Trait Isolationist		;Isolationist
-Character Trait LaborOriented		;Arbeitsorientierter
+Character Trait LaborOriented		;Arbeitsorientiert
 Character Trait Lawful		;Rechtschaffen
 Character Trait LaxDiscipline		;Lasche Disziplin
 Character Trait Lazy		;Faul
@@ -3579,9 +3579,9 @@ Character Trait Logical		;Logik
 Character Trait Luddite		;Technikfeindlich
 Character Trait Measured		;Wohlüberlegt
 Character Trait Methodical		;Methodisch
-Character Trait NaturalGroundLeader		;Geborener Anführer für Bodeneinheiten
+Character Trait NaturalGroundLeader		;Geborener Anführer für Bodentruppen
 Character Trait NaturalSpaceLeader		;Geborener Anführer für Raumeinheiten
-Character Trait NonTechnical		;Nicht technisch
+Character Trait NonTechnical		;Zwei linke Hände
 Character Trait Obnoxious		;Widerlich
 Character Trait Organized		;Organisiert
 Character Trait Pacifist		;Pazifist
@@ -3597,7 +3597,7 @@ Character Trait PoorNavigator		;Schlechter Navigator
 Character Trait PoorRecruiter		;Schlechter Rekrutierer
 Character Trait PoorSpaceAttacker		;Schwach im Weltraumangriff
 Character Trait PoorSpaceDefender		;Schwach in Weltraumverteidigung
-Character Trait PoorSpaceLogistician		;Schlechter Weltraum Logistiker
+Character Trait PoorSpaceLogistician		;Schlechter Weltraum-Logistiker
 Character Trait PoorSpeaker		;Schlechter Redner
 Character Trait PoorStrategist		;Schlechter Stratege
 Character Trait PoorTactician		;Schlechter Taktiker
