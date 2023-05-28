@@ -1459,7 +1459,7 @@ Reserved Abbreviation		;Res.
 Other		;Export
 On Hand		;Lager
 Maintain		;Limit
-Construction		;Baumaterial
+Construction		;Konstruktion
 Sources		;Vorkommen
 On Hand Explanation		;Die Menge dieser Ressource, die an diesem Ort verfügbar ist. 'Reservierte' (Res.) Ressourcen sind hier nicht enthalten.
 Maintain Explanation		;Der Lagerbestand, der für diese Ressource an diesem Ort aufrechterhalten werden soll. Frachter werden automatisch Ressourcen hierher transportieren, um diesen Lagerbestand aufrechtzuerhalten.
@@ -2551,7 +2551,7 @@ Abandoned Ship Damaged		;Wir haben ein [DISCOVERY]verlassenes Schiff: {0}[/DISCO
 Abandoned Ship Damaged Medium		;Wir haben ein [DISCOVERY]verlassenes Schiff: {0}[/DISCOVERY] ({1}) bei {2} untersucht.\n\nDas Schiff: {0} ist beschädigt und derzeit nicht funktionsfähig. Wir könnten es jedoch übernehmen, indem wir ein Bauschiff schicken, um es zu reparieren.
 Abandoned Ship Damaged Heavy		;Wir haben ein [DISCOVERY]verlassenes Schiff: {0}[/DISCOVERY] ({1}) bei {2} untersucht.\n\nDas Schiff: {0} ist schwer beschädigt und derzeit nicht funktionsfähig. Wir könnten es jedoch übernehmen, indem wir ein Bauschiff schicken, um es zu reparieren.
 ;
-These ruins provide the following empire-wide bonuses		;Diese Ruinen bieten die folgenden reichsweiten Boni
+These ruins provide the following empire-wide bonuses		;Diese Ruinen bieten die folgenden Reichweiten-Boni
 These ruins provide the following colony bonuses		;Diese Ruinen bieten folgende Kolonie Boni
 We should colonize this planet to obtain these bonuses		;Wir sollten diesen Planeten kolonisieren, um diese Boni zu erhalten
 To obtain the other bonuses we should colonize this planet		;Um die anderen Boni zu erhalten, sollten wir diesen Planeten kolonisieren
@@ -4271,9 +4271,9 @@ Automatically Retrofit Manual Fleets		;Automatischer Umbau manueller Flotten
 Automatically Retrofit Automated Fleets		;Automatischer Umbau automatisierter Flotten
 NewShipsAutomatedMilitary		;Neue Militärschiffe werden automatisiert
 NewShipsAutomatedOtherState		;Neue Staatsschiffe werden automatisiert
-ConstructionPrioritizeStateShipsInQueue		;Priorisierung von Staatsschiffen in Bauwarteschleifen
-DockingPrioritizeStateShipsInQueue		;Priorisierung von Staatsschiffen in Andockwarteschleifen
-Prioritize		;Priorität
+ConstructionPrioritizeStateShipsInQueue		;staatl. Schiffe haben Vorrang
+DockingPrioritizeStateShipsInQueue		;staatl. Schiffe haben Vorrang
+Prioritize		;Vorrang
 ;
 Cannot build		;Kann nicht gebaut werden
 Advisors Reserving AMOUNT for PURPOSE		;Berater Reservierung von {0} $ für: {1}
