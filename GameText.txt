@@ -665,7 +665,7 @@ Can only build X of these facilities in your empire		;Es kann nur {0} dieser Ein
 Can only build X of these facilities in the galaxy		;Es kann nur {0} dieser Einrichtungen in der Galaxie gebaut werden
 Cannot build this facility at this planet type		;Diese Einrichtung kann auf diesem Planetentyp nicht gebaut werden
 We have the wrong government to build this facility		;Wir haben die falsche Regierung, um diese Einrichtung zu bauen
-Cannot afford the cost to build this facility		;Die Kosten für diese Einrichtung können sich nicht leisten
+Cannot afford the cost to build this facility		;Die Kosten für diese Einrichtung können Sie sich nicht leisten
 Already retrofitting		;Bereits umgebaut
 Already using latest design		;Bereits neuestes Design
 All Ships already using latest design		;Alle Schiffe benutzen bereits neustes Design
