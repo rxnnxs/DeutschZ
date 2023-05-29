@@ -1459,7 +1459,7 @@ Reserved Abbreviation		;Res.
 Other		;Export
 On Hand		;Lager
 Maintain		;Limit
-Construction		;Konstruktion
+Construction		;Bau
 Sources		;Vorkommen
 On Hand Explanation		;Die Menge dieser Ressource, die an diesem Ort verfügbar ist. 'Reservierte' (Res.) Ressourcen sind hier nicht enthalten.
 Maintain Explanation		;Der Lagerbestand, der für diese Ressource an diesem Ort aufrechterhalten werden soll. Frachter werden automatisch Ressourcen hierher transportieren, um diesen Lagerbestand aufrechtzuerhalten.
