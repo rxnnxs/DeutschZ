@@ -1,5 +1,6 @@
 {
-  "displayName": "Deutsch Zusatz HH",
+  "displayName": "DeutschZ",
+  "shortDescription": "Für den DW2-Deutsch-Mod der Zusatz: Zusätzliche Ergänzungen. So bekommen Schiffe bessere Bezeichnungen uvm.",
   "version": "0.1",
   "previewImage": "Dzusatz.jpg",
   "bundles": [
