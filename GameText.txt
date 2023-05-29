@@ -2466,16 +2466,16 @@ BaseCaptureCondition WhenStrongerThanTarget		;Wenn stärker als das Ziel
 ;
 ShipCaptureEnlistment Always		;Immer
 ShipCaptureEnlistment Never		;Niemals
-ShipCaptureEnlistment WhenHighTechOrLargerThanCanBuild		;Wenn HighTech oder größer als gebaut werden kann
-ShipCaptureEnlistment WhenNOTHighTechOrLargerThanCanBuild		;Wenn NICHT HighTech oder größer als gebaut werden kann
+ShipCaptureEnlistment WhenHighTechOrLargerThanCanBuild															;Wenn HighTech oder nicht konstruierbar
+ShipCaptureEnlistment WhenNOTHighTechOrLargerThanCanBuild														;Wenn größer als gebaut werden kann
 ;
-ShipCaptureDisassemble AlwaysDisassembleAtBaseForTechAndResources		;Immer an Basis demontieren für Technik und Rohstoffe
-ShipCaptureDisassemble AlwaysImmediatelyScrapForMoney		;Verschrotte immer sofort für Geld
-ShipCaptureDisassemble DisassembleAtBaseWhenHighTechOrLargerThanCanBuildOtherwiseImmediatelyScrapForMoney		;Demontieren an Basis wenn HighTech oder größer als man bauen kann sonst für Geld verschrotten
+ShipCaptureDisassemble AlwaysDisassembleAtBaseForTechAndResources												;Immer demontieren für Technik und Rohstoffe
+ShipCaptureDisassemble AlwaysImmediatelyScrapForMoney															;Verschrotten und zu Geld machen
+ShipCaptureDisassemble DisassembleAtBaseWhenHighTechOrLargerThanCanBuildOtherwiseImmediatelyScrapForMoney		;HiTech/zuGroß>demont.>HiTech/Rohst. sonst für Geld verschrotten
 ;
 BaseCaptureEnlistment Always		;Immer
 BaseCaptureEnlistment Never		;Niemals
-BaseCaptureEnlistment ScrapWhenNotResearchStation		;Verschrotten, wenn keine Forschungsstation vorhanden ist
+BaseCaptureEnlistment ScrapWhenNotResearchStation		;Verschrotten, wenn es keine Forschungsstation ist
 ;
 CharacterHandlingBehavior CaptureIfEnemyReturnHomeIfOther		;Gefangennahme wenn Feind, Heimreise wenn andere
 CharacterHandlingBehavior ReturnHome		;Zurück nach Hause
@@ -2642,13 +2642,13 @@ Military Attacks		;Militärische Angriffe
 Attack Overmatch Factor		;Freund/Feind-Verhältnis
 Capture Condition For Ships		;Enterbedingungen für Schiffe
 Capture Condition For Bases		;Enterbedingungen für Basen
-Enlist Military Ship		;Militärschiff anwerben
-Disassemble Military Ship		;Militärschiff demontieren
-Enlist Civilian Ship		;Zivilschiff anwerben
-Disassemble Civilian Ship		;Zivilschiff demontieren
-Enlist Base		;Basis anwerben
-Upgrade Enlisted Military Ships		;Angeworbene Militärschiffe aufrüsten
-Upgrade Enlisted Civilian Ships		;Angeworbene Zivilschiffe aufrüsten
+Enlist Military Ship		;Militärschiffe eingliedern
+Disassemble Military Ship		;demontieren oder verkaufen
+Enlist Civilian Ship		;Zivilschiffe eingliedern
+Disassemble Civilian Ship		;demontieren oder verkaufen
+Enlist Base		;Basis eingliedern
+Upgrade Enlisted Military Ships		;Eingegliederte Militärschiffe aufrüsten
+Upgrade Enlisted Civilian Ships		;Eingegliederte Zivilschiffe aufrüsten
 Characters at Conquered Colonies or Bases		;Charaktere in eroberten Kolonien oder Basen
 Military Mission Ratio Escort		;Militärische Mission Eskorte-Verhältnis
 Military Mission Ratio Guard		;Militärische Mission Verhältnis bewachen
