@@ -253,9 +253,9 @@ GameTaskType QueueColonize		;Baue Kolonieschiff und kolonisiere {0}
 GameTaskType CancelQueueBase		;Bau {0} bei {1} abbrechen
 GameTaskType CancelQueueRepairInvestigate		;Reparieren und untersuchen {0} ({1}) abbrechen
 GameTaskType CancelQueueColonize		;Kolonisierung von {0} abbrechen
-GameTaskType QueueAttackTarget		;Angriff gegen {0} in Warteschleife einreihen
+GameTaskType QueueAttackTarget		;{0} in Angriffsplanung einbeziehen
 GameTaskType CancelQueueAttackTarget		;Angriff gegen {0} abbrechen
-GameTaskType QueueClearDangerousLocation		;Warteschlange: Bedrohungsuntersuchung und Räumung bei {0}
+GameTaskType QueueClearDangerousLocation		;Einplanen: Bedrohungsuntersuchung und Räumung bei {0}
 GameTaskType CancelQueueClearDangerousLocation		;Abbrechen: Bedrohungsuntersuchung und Räumung bei {0}
 GameTaskType BuildPlanetaryFacility		;auf [b]{1}[/b] für [b]{2} $ bauen[/b]\n\n Möchten Sie auf\n»{1} für\n{2} $\nden [b]Bau in Auftrag geben?[/b]
 GameTaskType BuildShips		;Baue auf {0} Schiffe \nfür {1} $
@@ -632,7 +632,7 @@ FleetRole Invade		;Invasion
 FleetRole Manual		;Manuell
 ;
 TacticsInvasion InvadeImmediately		;Sofort
-TacticsInvasion InvadeWhenClear		;Wenn ausgelöscht
+TacticsInvasion InvadeWhenClear		;wenn wehrlos
 TacticsInvasion NeverInvade		;Niemals
 ;
 TacticsRetreatType EnemyNearby		;Feind in der Nähe
@@ -4128,11 +4128,11 @@ Fleet Template		;Flottenvorlage
 Edit Fleet Template		;Flottenvorlage bearbeiten
 Fleet Templates and Fleet Creation		;Flottenvorlagen und Flottenerstellung
 ;
-Form new FLEETTEMPLATE from existing ships at		;Neue {0} aus vorhandenen Schiffen bilden bei...
+Form new FLEETTEMPLATE from existing ships at		;Neue {0} aus vorh. Schiffen bilden bei...
 Build new FLEETTEMPLATE at		;Neue {0} bauen bei...
-Select a single Fleet Template to form a new fleet		;Wähle eine Vorlage, und bilde eine neue Flotte aus vorhandenen Schiffen
-Select a single Fleet Template to build a new fleet		;Wähle eine Vorlage, um eine neue Flotte zu erstellen
-Any construction yards in empire		;Alle Bauwerften im Reich
+Select a single Fleet Template to form a new fleet		;Wähle eine Vorlage und bilde eine neue Flotte aus vorh. Schiffen
+Select a single Fleet Template to build a new fleet		;Wähle eine Vorlage um eine neue Flotte zu erstellen
+Any construction yards in empire		;Jegliche Bauwerft im Reich
 Load Fleet Templates		;Flottenvorlagen laden
 Load Fleet Templates Explanation		;Wähle eine Flottenvorlage zum laden aus der Liste unten aus.
 Save Fleet Templates		;Flottenvorlagen speichern
