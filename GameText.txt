@@ -75,8 +75,8 @@ ShipMission Description LoadCargo		;Treibstoff bei {0} laden
 ShipMission Description TransferFuel		;Transferiere Treibstoff zu {0}
 ShipMission Description Mine		;Baue {0} ab, lade es bei {1} ab
 ShipMission Description MineLoad		;Baue Treibstoff ab bei {0}
-ShipMission Description Move		;Bewege zu {0}
-ShipMission Description Move Coordinates		;Bewege zu {0}, {1}
+ShipMission Description Move		;Ziel: {0}
+ShipMission Description Move Coordinates		;Zielkoordinaten: {0}, {1}
 ShipMission Description Patrol		;Patrouilliere {0}
 ShipMission Description Pickup		;Sammle auf {0}
 ShipMission Description Raid		;Überfalle {0}
