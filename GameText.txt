@@ -1239,12 +1239,12 @@ Peak Weapons Energy Usage		;Max. Energiebedarf  Waffen
 Maximum Engine Energy Usage		;Max. Energiebedarf Triebwerke
 Standard; Standard
 Ion; Ionen
-Point Defense		;PV
-Bombard		;Bomb.
+Point Defense		;Punkt-Vertdg.
+Bombard		;Bombardierung
 Boarding		;Entern
 Standard Damage		;Standardschaden
 Ion Damage		;Ionenschaden
-Point Defense Damage		;PV, Schaden
+Point Defense Damage		;Punktverteidigung-Schaden
 Bombard Damage		;Bomb.-Schaden
 Damage Rate Range Description		;Max DPS {1}, Reichweite {0}, Min DPS {2}
 Damage Rate Explanation		;Dauerhafter Schaden pro Sekunde\n(berücksichtigt verfügbare Energie und Zielgenauigkeit)
@@ -1736,9 +1736,9 @@ X Troops		;{0} Truppen
 X Attack Strength		;{0} Offensivstärke
 Troop Location Description Ship		;An Bord {0}
 Troop Location Description Planet		;auf {0} stationiert
-Attack Strength		;Offensiv,
+Attack Strength		;Offensiv
 Attack Strength with Readiness		;Offensivstärke, in Bereitschaft
-Defend Strength		;Defensiv,
+Defend Strength		;Defensiv
 Defend Strength with Readiness		;Defensivstärke, in Bereitschaft
 Intercept Strength		;Abfangstärke
 Sabotage Strength		;Sabotagestärke
