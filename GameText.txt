@@ -257,7 +257,7 @@ GameTaskType QueueAttackTarget		;{0} in Angriffsplanung einbeziehen
 GameTaskType CancelQueueAttackTarget		;Angriff gegen {0} abbrechen
 GameTaskType QueueClearDangerousLocation		;Einplanen: Bedrohungsuntersuchung und Räumung bei {0}
 GameTaskType CancelQueueClearDangerousLocation		;Abbrechen: Bedrohungsuntersuchung und Räumung bei {0}
-GameTaskType BuildPlanetaryFacility		;auf [b]{1}[/b] für [b]{2} $ bauen[/b]\n\n Möchten Sie auf\n»{1} für\n{2} $\nden [b]Bau in Auftrag geben?[/b]
+GameTaskType BuildPlanetaryFacility		;auf [b]{1}[/b] für [b]{2} $ bauen[/b]\nMöchten Sie auf »{1} für {2} $den [b]Bau in Auftrag geben?[/b]
 GameTaskType BuildShips		;Baue auf {0} Schiffe \nfür {1} $
 GameTaskType BuildShips List		;Baue Schiffe auf {0} für {1} $:\n{2}
 GameTaskType BuildShips Single		;[b]{0}[/b] auf [b]{2}[/b] für [b]{3} $[/b]\n\nWollen Sie [b]{0} ({1})[/b] auf\n»[b]{2}[/b] für \n[b]{3} $[/b] bauen?
@@ -665,7 +665,7 @@ Can only build X of these facilities in your empire		;Es kann nur {0} dieser Ein
 Can only build X of these facilities in the galaxy		;Es kann nur {0} dieser Einrichtungen in der Galaxie gebaut werden
 Cannot build this facility at this planet type		;Diese Einrichtung kann auf diesem Planetentyp nicht gebaut werden
 We have the wrong government to build this facility		;Wir haben die falsche Regierung, um diese Einrichtung zu bauen
-Cannot afford the cost to build this facility		;Die Kosten für diese Einrichtung können sich nicht leisten
+Cannot afford the cost to build this facility		;Die Kosten für diese Einrichtung können Sie sich nicht leisten
 Already retrofitting		;Bereits umgebaut
 Already using latest design		;Bereits neuestes Design
 All Ships already using latest design		;Alle Schiffe benutzen bereits neustes Design
