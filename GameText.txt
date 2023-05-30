@@ -1735,10 +1735,10 @@ X Ships		;{0} Schiffe
 X Troops		;{0} Truppen
 X Attack Strength		;{0} Offensivstärke
 Troop Location Description Ship		;An Bord {0}
-Troop Location Description Planet		;Bei {0}
-Attack Strength		;Offensiv
+Troop Location Description Planet		;auf {0} stationiert
+Attack Strength		;Offensiv,
 Attack Strength with Readiness		;Offensivstärke, in Bereitschaft
-Defend Strength		;Defensiv
+Defend Strength		;Defensiv,
 Defend Strength with Readiness		;Defensivstärke, in Bereitschaft
 Intercept Strength		;Abfangstärke
 Sabotage Strength		;Sabotagestärke
@@ -4786,7 +4786,7 @@ Incoming Enemy Fleet Detected		;auf uns zukommende feindliche Flotte entdeckt
 Incoming Enemy Fleet Detected Explanation		;Die {0}, eine feindliche Flotte der [FACTION]{1}[/FACTION], wurde entdeckt, die auf einem Angriffsvektor in Richtung [LOCATION]{2}[/LOCATION] unterwegs ist!\n\nWir sollten sofort Verteidigungskräfte entsenden, um diese Bedrohung abzufangen.
 ;
 ShipSymbolScale		;Maßst. Schiffs- u. Basissymb.
-At X		;auf {0} stat.
+At X		;auf {0}
 LensFlareLevel		;Stärke des Linseneffekt
 NebulaRenderingDensity		;Nebeldichte
 StarFieldLevel		;Sternendichte
