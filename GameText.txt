@@ -4132,7 +4132,7 @@ Form new FLEETTEMPLATE from existing ships at		;Neue {0} aus vorh. Schiffen bild
 Build new FLEETTEMPLATE at		;Neue {0} bauen bei...
 Select a single Fleet Template to form a new fleet		;Wähle eine Vorlage und bilde eine neue Flotte aus vorh. Schiffen
 Select a single Fleet Template to build a new fleet		;Wähle eine Vorlage um eine neue Flotte zu erstellen
-Any construction yards in empire		;Jegliche Bauwerft im Reich
+Any construction yards in empire		;Irgendeine Werft
 Load Fleet Templates		;Flottenvorlagen laden
 Load Fleet Templates Explanation		;Wähle eine Flottenvorlage zum laden aus der Liste unten aus.
 Save Fleet Templates		;Flottenvorlagen speichern
