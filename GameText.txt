@@ -182,7 +182,7 @@ Development		;Entwicklung
 Approval		;Zustimmung
 Revenue		;Einnahmen
 Base Revenue		;Basiseinnahmen
-Support Costs		;Unterstützungskosten
+Support Costs		;Unterstützungsk.
 Corruption		;Korruption
 Corruption Losses		;Korruptionsverluste
 Diameter		;Ø
@@ -1064,8 +1064,8 @@ FighterRepairRate		;Jäger Reparaturrate
 PlanetaryShieldMaximumDamageAbsorbed		;Schildschaden absorbiert
 PlanetaryShieldPenetrationChance		;Schilddurchschlag Chance
 TerraformingDamageRepairRate		;Schaden Reparaturrate
-TerraformingQualityImprovementRate		;Qualitätsverbesserungsrate
-TerraformingQualityMaximum		;Qualitätsverbesserungsbetrag
+TerraformingQualityImprovementRate		;Qualitätsverb.-Rate
+TerraformingQualityMaximum		;Qualitätsverb.-Betrag
 EmpireBonusSharingRate		;Reichsbonus Teilungsrate
 QualityBoost		;Qualitätsschub
 SlaveryIncomeFactor		;Sklaverei Einkommen
@@ -4188,8 +4188,8 @@ Cannot delete selected army templates		;Ausgewählte Armeevorlagen können nicht
 New TYPE Army		;Neue {0} Armee
 ;
 Damage		;Schaden
-Net Tax Revenue		;Netto Steuereinnahmen
-Gross Tax Revenue		;Brutto Steuereinnahmen
+Net Tax Revenue		;Netto Steuereinn.
+Gross Tax Revenue		;Brutto Steuereinn.
 Crash Research Cost		;Spezialproj. Forschungskosten
 when research begins		;wenn die Forschung beginnt
 Crash Program		;Spezialprogramm
