@@ -1052,7 +1052,7 @@ COST per year		;{0}/Jahr
 Build Cost		;Baukosten
 Can only build X per empire		;Kann nur {0} mal im Reich gebaut werden
 Can only build X per galaxy		;Kann nur {0} mal in der Galaxie gebaut werden
-Can only build at PLANETTYPES		;Kann nur bei {0} gebaut werden
+Can only build at PLANETTYPES		;Kann nur auf {0} gebaut werden
 Can only build with GOVERNMENTS		;Kann nur mit {0} Regierungen gebaut werden
 ;
 ColonyCorruptionReductionProjectionRange		;Korruption Reduzierungsreichweite
@@ -1668,7 +1668,7 @@ X race		;{0} Rasse
 X government		;{0} Regierung
 Leader		;Anführer
 Cabinet		;Kabinett
-FACILITY at PLANET		;{0} bei {1}
+FACILITY at PLANET		;{0} auf {1}
 ;
 Policy Settings		;Politik Einstellungen
 Colonies		;Kolonien
@@ -2436,7 +2436,7 @@ Captured Base Destroy		;Eroberte Basis geplündert und zerstört
 Captured Base Looted and Destroyed		;Basis geplündert und zerstört
 Boarded Base Self Destructs Capture Loot		;Wir haben {0} von [LOCATION]{1}[/LOCATION] geplündert und dann die Basis zerstört, weil sie sich in einer feindlichen Kolonie befand
 Boarded Base Self Destructs Loss		;Die [FACTION]{0}[/FACTION] haben {1} von [LOCATION]{2}[/LOCATION] geplündert und dann unsere Basis zerstört, weil sie in unserer Kolonie war.
-Discovery at X		;Entdeckung bei {0}
+Discovery at X		;Entdeckung auf {0}
 We have discovered ancient ruins from a lost civilization		;Wir haben die [DISCOVERY]{0}[/DISCOVERY] entdeckt, uralte Ruinen einer untergegangenen Zivilisation, bei {1} [LOCATION]{2}[/LOCATION] im {3} System.
 Should we investigate the ruins?		;Sollen wir die Ruinen untersuchen?
 We have discovered hidden items		;im {1} System entdeckt\n Wir haben versteckte Objekte bei [LOCATION]{0}[/LOCATION] im {1} System entdeckt.
@@ -2592,10 +2592,10 @@ AcquireColonyPeacefully Event		;Beim Auffinden von {0} haben wir eine merkwürdi
 ConquerColony Event		;Bei der Eroberung von {0} haben wir eine merkwürdige Entdeckung gemacht:
 ;
 Destroy Event StellarObject		;Mit der Zerstörung von {0} haben wir eine seltsame Entdeckung gemacht:
-Destroy Event Ruins		;Mit der Zerstörung von {1} bei {0} haben wir eine merkwürdige Entdeckung gemacht:
+Destroy Event Ruins		;Mit der Zerstörung von {1} auf {0} haben wir eine merkwürdige Entdeckung gemacht:
 ;
-Build Event Facility		;Der Aufbau der {0} bei {1} hat zu einer merkwürdigen Entdeckung geführt:
-Build Event Base		;Der Aufbau der {0} bei {1} hat zu einer merkwürdigen Entdeckung geführt:
+Build Event Facility		;Der Aufbau der {0} auf {1} hat zu einer merkwürdigen Entdeckung geführt:
+Build Event Base		;Der Aufbau der {0} auf {1} hat zu einer merkwürdigen Entdeckung geführt:
 ;
 EmpireRelationChange Event FirstContact		;Unser erster Kontakt mit dem {0} hat zu einer merkwürdigen Entdeckung geführt:
 EmpireRelationChange Event		;Unsere kürzlich eingeleitete {0} mit der {1} hat zu einer merkwürdigen Entdeckung geführt:
@@ -3465,14 +3465,14 @@ Research Critical Success RESEARCHPROJECT		;Unseren Wissenschaftlern ist bei der
 New Character Event Title		;{0} schließt sich uns an
 New Character EVENT ROLE NAME		;Die jüngsten Ereignisse ({0}) haben einen [CHARACTER]neuen {1}: {2} hervorgebracht[/CHARACTER]
 New Character Appeared Message ROLE NAME LOCATION		;[CHARACTER]{1}[/CHARACTER] wird\n[CHARACTER]{0}[/CHARACTER] auf\n[LOCATION]{2}[/LOCATION]
-Character Event TYPE LOCATION		;{0} bei {1}
+Character Event TYPE LOCATION		;{0} auf {1}
 Character Event Description ResearchProject		;{0} in {1}
 Character Event Description Bonus Type		;{0}: {1}
 Character Event Description Trait Type		;{0}: {1}
 Character Event Description Empire		;{0} mit {1}
 Character Event Description Change Location		;{0} zu {1}
-Character Event Description Appearance		;{0} bei {1}
-Character Event Description Death		;{0} bei {1}
+Character Event Description Appearance		;{0} auf {1}
+Character Event Description Death		;{0} auf {1}
 ;
 Character Event BuildBase		;Basisbau
 Character Event BuildCivilianShip		;Ziviler Schiffsbau
@@ -3659,7 +3659,7 @@ Colony Leaves Empire		;Die Einwohner von [LOCATION]{0}[/LOCATION] sind unserer u
 Colony Leaves Empire Joins Us		;Die unterdrückten Einwohner von [LOCATION]{0}[/LOCATION] haben die Seiten gewechselt und sich uns angeschlossen!
 Colony Leaves Empire Independent		;Die Einwohner von [LOCATION]{0}[/LOCATION] sind unserer unterdrückerischen Herrschaft überdrüssig und haben die Unabhängigkeit ausgerufen!
 
-Character Death Description Generic		;Unser [CHARACTER]{0} {1}[/CHARACTER] ist bei [LOCATION]{2}[/LOCATION] gestorben!
+Character Death Description Generic		;Unser [CHARACTER]{0} {1}[/CHARACTER] ist auf [LOCATION]{2}[/LOCATION] gestorben!
 Character Death Description Assassinated		;Unser [CHARACTER]{0} {1}[/CHARACTER] wurde von einem ausländischen Geheimagenten auf [LOCATION]{2}[/LOCATION] ermordet!
 Character Death Description Bombardment		;Unser [CHARACTER] {0} {1}[/CHARACTER] ist bei der orbitalen Bombardierung von [LOCATION]{2}[/LOCATION] getötet worden!
 Character Death Description ColonyDisaster		;Unser [CHARACTER]{0} {1}[/CHARACTER] ist bei einer Naturkatastrophe auf [LOCATION]{2}[/LOCATION] ums Leben gekommen!
@@ -3823,14 +3823,14 @@ Commanding FLEETNAME		;Kommandiere {0}
 Commanding FLEETNAME from SHIP		;Kommandiere {0} von {1} aus
 Commanding SHIPNAME		;Kommandiere {0}
 Onboard SHIPNAME		;An Bord {0}
-Waiting at X		;Warte bei {0}
-Ambassador to EMPIRE at COLONY		;Botschafter zu den {0} bei {1}
+Waiting at X		;Umkreise {0}
+Ambassador to EMPIRE at COLONY		;Botschafter zu den {0} nach {1}
 Governing COLONY		;Verwalte {0}
 Ruling from COLONY		;Herrscht über {0}
 Researching at X		;Forsche auf {0}
 Prisoners		;Gefangene
 Imprisoned by EMPIRE		;Inhaftiert von den {0}
-Imprisoned by EMPIRE LOCATION		;Inhaftiert von den {0} bei {1}
+Imprisoned by EMPIRE LOCATION		;Inhaftiert von den {0} auf {1}
 Location Unknown		;Standort unbekannt
 ;
 Target Empire		;Ziel Reich
@@ -4239,9 +4239,9 @@ SpaceItemType CreatureDebris		;Biologische Trümmerteile
 SpaceItemType EscapePod		;Rettungskapsel
 SpaceItemType ShipDebris		;Trümmer
 ;
-EMPIRE begins constructing WONDER at COLONY		;{0} beginnt den Bau von {1} bei {2}
+EMPIRE begins constructing WONDER at COLONY		;{0} beginnt den Bau von {1} auf {2}
 The EMPIRE have begun construction of the WONDER at their colony COLONY in the SYSTEM system		;Die [FACTION]{0}[/FACTION] haben mit dem Bau der [FACILITY]{1}[/FACILITY] in ihrer Kolonie [LOCATION]{2}[/LOCATION] im {3} System begonnen.
-EMPIRE completes construction of WONDER at COLONY		;{0} schließt die Konstruktion von {1} bei {2} ab
+EMPIRE completes construction of WONDER at COLONY		;{0} schließt die Konstruktion von {1} auf {2} ab
 The EMPIRE have completed construction of the WONDER at their colony COLONY in the SYSTEM system		;Die [FACTION]{0}[/FACTION] haben den Bau der [FACILITY]{1}[/FACILITY] in ihrer Kolonie [LOCATION]{2}[/LOCATION] im {3} System abgeschlossen.
 EMPIRE has Declared War on OTHER		;{0} hat {1} den Krieg erklärt
 The EMPIRE has declared war on the OTHER		;Die [FACTION]{0}[/FACTION] haben den [FACTION]{1}[/FACTION] den Krieg erklärt.
@@ -4381,8 +4381,8 @@ Can manually control Mining Ships		;Kann Bergbauschiffe manuell steuern
 Low Fuel		;wenig Gas
 Upgrade		;Aufrüsten
 ;
-Cannot build Mining Stations at colonies		;Kann keine Bergbaustationen bei Kolonien bauen
-Cannot build Research Stations at own colonies		;Kann keine Forschungsstationen in eigenen Kolonien bauen
+Cannot build Mining Stations at colonies		;Kann keine Bergbaustationen auf Kolonien bauen
+Cannot build Research Stations at own colonies		;Kann keine Forschungsstationen auf eigenen Kolonien bauen
 While salvaging a SPACEITEM in the SYSTEM system we have made the following discovery		;Bei der Bergung eines {0} im {1} System haben wir die folgende Entdeckung gemacht
 CHARACTERROLE Recovered		;{0} gefunden
 Enemy CHARACTERROLE Captured		;Feindlicher {0} gefangen genommen
@@ -4480,7 +4480,7 @@ Bridge camera for SHIP		;Brückenkamera für {0}
 High Angle		;Steiler Winkel
 Camera view locked on SHIP		;Kameraansicht gesperrt auf {0}\n(Ansicht zum Entsperren ändern)
 ;
-Unknown Ruins at LOCATION		;Unbekannte Ruinen bei {0}
+Unknown Ruins at LOCATION		;Unbekannte Ruinen auf {0}
 Our exploration has detected unknown items at LOCATION in the SYSTEM system. We should explore at higher levels to reveal these items		;Unsere Erkundung hat unbekannte Objekte auf [LOCATION]{0}[/LOCATION] im {1} System entdeckt.\n\nWir sollten mit höherer Intensität erkunden, um diese Objekte zu entdecken.
 Unknown Items Detected at LOCATION		;Unbekannte Objekte » {0}
 Bonuses To Owner		;Boni an Besitzer
@@ -5223,7 +5223,7 @@ No Ambassador assigned to our capital		;Sie müssen einen Botschafter in unsere 
 Diplomacy Factor Assimilation Rate Improvement		;Assimilationsrate der Bevölkerung
 ;
 You have no active ROLE design		;Sie haben kein aktives {0} Design
-Build base at LOCATION		;Baue Basis bei {0}
+Build base at LOCATION		;Baue Basis im Orbit von {0}
 At Selected Location		;Am ausgewählten Standort
 ;
 Switch Empire		;Reich wechseln
@@ -5287,7 +5287,7 @@ Leader New		;{0} hat als unser(e) neue(r) Anführer(in) die Macht übernommen un
 Leader New From Existing		;{0}, ein(e) existierende(r) {1}, hat als unser(e) neue(r) Anführer(in) die Macht übernommen und die sofortige Kontrolle übernommen
 Leader Change Colony Boost		;Die/Der neue(r) Anführer(in) {0} unseres Reiches erhöht die Zufriedenheit
 Leader Change Colony Disrupt		;Der disruptive Führungswechsel ({0}) reduziert die Zufriedenheit in unserem Reich
-Rebellion at COLONY		;Rebellion bei {0}
+Rebellion at COLONY		;Rebellion auf {0}
 Disruption from Leader Change		;Disruption durch Führungswechsel
 
 Default Tactical Settings		;Taktische Vorgabeeinstellungen
