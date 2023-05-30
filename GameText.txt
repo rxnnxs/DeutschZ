@@ -4809,7 +4809,7 @@ Last Seen Explanation Recent		;Kürzlich gesehen
 Currently Visible		;Aktuell sichtbar
 ;
 All Creatures		;Alle Kreaturen
-FLEET investigating		;{0} untersucht
+FLEET investigating		;{0} beauftragt
 Multiple Fleets investigating		;Mehrere Flotten untersuchen
 No Attack or Raid fleets available		;Keine Angriffs- oder Plünderungsflotten verfügbar
 ;
