@@ -257,7 +257,7 @@ GameTaskType QueueAttackTarget		;{0} in Angriffsplanung einbeziehen
 GameTaskType CancelQueueAttackTarget		;Angriff gegen {0} abbrechen
 GameTaskType QueueClearDangerousLocation		;Einplanen: Bedrohungsuntersuchung und Räumung bei {0}
 GameTaskType CancelQueueClearDangerousLocation		;Abbrechen: Bedrohungsuntersuchung und Räumung bei {0}
-GameTaskType BuildPlanetaryFacility		;auf [b]{1}[/b] für [b]{2} $ bauen[/b]\nMöchten Sie auf »{1} für {2} $ den [b]Bau in Auftrag geben?[/b]
+GameTaskType BuildPlanetaryFacility		;auf [b]{1}[/b] für [b]{2} $ bauen[/b]? Möchten Sie auf {1} für {2} $ den [b]Bau in Auftrag geben?[/b]
 GameTaskType BuildShips		;Baue auf {0} Schiffe \nfür {1} $
 GameTaskType BuildShips List		;Baue Schiffe auf {0} für {1} $:\n{2}
 GameTaskType BuildShips Single		;[b]{0}[/b] auf [b]{2}[/b] für [b]{3} $[/b]\n\nWollen Sie [b]{0} ({1})[/b] auf\n»[b]{2}[/b] für \n[b]{3} $[/b] bauen?
