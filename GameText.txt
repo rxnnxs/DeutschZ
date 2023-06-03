@@ -5238,7 +5238,7 @@ ModsListInstruction ;Du kannst hier die Reihenfolge von Mods festlegen und sie a
 ModNoDescription ;Keine Beschreibung verfügbar
 
 Latest Design for Role		;Neuester Entwurf jeder Klasse
-Latest Design for SHIPHULL		;Neuester Entwurf für Subklasse '{0}'
+Latest Design for SHIPHULL	;N. Entw. f. Subkl. '{0}'
 Add Item		;Flotte erweitern
 
 FleetTemplateItem Role Button Explanation		;Klicke, um die Klasse des Objekts zu ändern
