@@ -1383,7 +1383,7 @@ Select Ship Hull		;Schiffsrumpf wählen
 Select Ship Hull Explanation		;Wähle eine Schiffsrumpf aus, auf dem das neue Design basieren soll. Schiffsrümpfe definieren Schächte, zu denen man Komponenten wie Triebwerke, Waffen, Schilde usw. hinzufügen kann.
 Add New		;Ganz neuer Entwurf
 Copy As New		;Auswahl als Vorlage
-Max Size		;Max Größe
+Max Size		;max-Größe
 New ROLE		;Baue {0}
 Select Ship Hull and create new Design		;Schiffsrumpf auswählen und neues Design erstellen
 Delete Selected		;Auswahl löschen
@@ -2363,8 +2363,8 @@ MessageType Story		;Geschichte
 MessageType UnderAttack		;Unter Beschuss
 ;
 Showing All Messages		;Zeige alle Meldungen
-Filtered to X		;Gefiltert nach {0}
-X Message Types		;{0} Nachrichtentypen
+Filtered to X		;Zeige {0}
+X Message Types		;{0} Nachricht-Arten
 X Empires		;{0} Imperien
 ;
 Raiders Withdraw		;Plünderer ziehen sich zurück
